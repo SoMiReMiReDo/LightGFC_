@@ -8,9 +8,7 @@ LightGFC condenses large-scale graph data into a structure-free node set in a si
 
 Our proposed LIGHTGFC contains three essential stages: (S1) Proto-structural aggregation (S2) MLP-driven structural-free pretraining (S3) Lightweight class-to-node condensation.
 
-<p align="center">
-<img src="overframe.png" alt="GC" width="500">
-</p>
+
 
 ## Requirements
 All experiments are implemented in Python 3.9 with Pytorch 1.12.1.
