@@ -4,6 +4,8 @@ The code of paper " LIGHTWEIGHT GRAPH-FREE CONDENSATION WITH MLPDRIVEN OPTIMIZAT
 ## Introduction
 This repository is the implementation of 2026 ICLR paper: **LIGHTWEIGHT GRAPH-FREE CONDENSATION WITH MLPDRIVEN OPTIMIZATION**
 LightGFC condenses large-scale graph data into a structure-free node set in a simple, accurate, yet highly efficient manner.
+
+
 Our proposed LIGHTGFC contains three essential stages: (S1) Proto-structural aggregation (S2) MLP-driven structural-free pretraining (S3) Lightweight class-to-node condensation.
 
 <p align="center">
