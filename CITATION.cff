@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying paper when using this software."
+title: LightGFC
+type: software
+repository-code: https://github.com/SoMiReMiReDo/LightGFC_
+authors:
+  - given-names: Fuxin
+    family-names: Yu
+  - given-names: Xin
+    family-names: Zheng
+  - given-names: Yi
+    family-names: Li
+  - given-names: Yanqing
+    family-names: Guo
+  - given-names: Xikun
+    family-names: Zhang
+  - given-names: Jeffrey
+    family-names: Chan
+  - given-names: Feng
+    family-names: Xia
+preferred-citation:
+  type: conference-paper
+  title: Lightweight Graph-Free Condensation With MLP-Driven Optimization
+  authors:
+    - given-names: Fuxin
+      family-names: Yu
+    - given-names: Xin
+      family-names: Zheng
+    - given-names: Yi
+      family-names: Li
+    - given-names: Yanqing
+      family-names: Guo
+    - given-names: Xikun
+      family-names: Zhang
+    - given-names: Jeffrey
+      family-names: Chan
+    - given-names: Feng
+      family-names: Xia
+  year: 2026
